@@ -367,74 +367,72 @@ address listed in the paper.
 
 <div class="thebibliography">
 
-99
-
-Varela, F. J. (1996). Neurophenomenology: A methodological remedy for
+1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for
 the hard problem. *Journal of Consciousness Studies*, *3*(4), 330-349.
 
-Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical
+2. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical
 approaches to conscious processing. *Neuron*, *70*(2), 200-227.
 
-Tononi, G., & Edelman, G. M. (1998). Consciousness and complexity.
+3. Tononi, G., & Edelman, G. M. (1998). Consciousness and complexity.
 *Science*, *282*(5395), 1846-1851.
 
-Varela, F., Lachaux, J. P., Rodriguez, E., & Martinerie, J. (2001). The
+4. Varela, F., Lachaux, J. P., Rodriguez, E., & Martinerie, J. (2001). The
 brainweb: Phase synchronization and large-scale integration. *Nature
 Reviews Neuroscience*, *2*(4), 229-239.
 
-Deco, G., Jirsa, V. K., & McIntosh, A. R. (2011). Emerging concepts for
+5. Deco, G., Jirsa, V. K., & McIntosh, A. R. (2011). Emerging concepts for
 the dynamical organization of resting-state activity in the brain.
 *Nature Reviews Neuroscience*, *12*(1), 43-56.
 
-Crick, F., & Koch, C. (2003). A framework for consciousness. *Nature
+6. Crick, F., & Koch, C. (2003). A framework for consciousness. *Nature
 Neuroscience*, *6*(2), 119-126.
 
-Friston, K. (2010). The free-energy principle: A unified brain theory?
+7. Friston, K. (2010). The free-energy principle: A unified brain theory?
 *Nature Reviews Neuroscience*, *11*(2), 127-138.
 
-Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology
+8. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology
 to the mechanisms of consciousness: Integrated Information Theory 3.0.
 *PLoS Computational Biology*, *10*(5), e1003588.
 
-Haken, H. (2010). *Information and Self-Organization: A Macroscopic
+9. Haken, H. (2010). *Information and Self-Organization: A Macroscopic
 Approach to Complex Systems*. Springer Science & Business Media.
 
-Fusaroli, R., Rączaszek-Leonardi, J., & Tylén, K. (2014). Dialog as
+10. Fusaroli, R., Rączaszek-Leonardi, J., & Tylén, K. (2014). Dialog as
 interpersonal synergy. *New Ideas in Psychology*, *32*, 147-157.
 
-Sporns, O. (2011). *Networks of the Brain*. MIT press.
+11. Sporns, O. (2011). *Networks of the Brain*. MIT press.
 
-Bressler, S. L., & Menon, V. (2010). Large-scale brain networks in
+12. Bressler, S. L., & Menon, V. (2010). Large-scale brain networks in
 cognition: Emerging methods and principles. *Trends in Cognitive
 Sciences*, *14*(6), 277-290.
 
-Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph
+13. Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph
 theoretical analysis of structural and functional systems. *Nature
 Reviews Neuroscience*, *10*(3), 186-198.
 
-Leff, D. R., Orihuela-Espina, F., Elwell, C. E., Athanasiou, T., Delpy,
+14. Leff, D. R., Orihuela-Espina, F., Elwell, C. E., Athanasiou, T., Delpy,
 D. T., Darzi, A. W., & Yang, G. Z. (2011). Assessment of the cerebral
 cortex during motor task behaviours in adults: A systematic review of
 functional near infrared spectroscopy (fNIRS) studies. *NeuroImage*,
 *54*(4), 2922-2936.
 
-Lutz, A., Lachaux, J. P., Martinerie, J., & Varela, F. J. (2002).
+15. Lutz, A., Lachaux, J. P., Martinerie, J., & Varela, F. J. (2002).
 Guiding the study of brain dynamics by using first-person data:
 Synchrony patterns correlate with ongoing conscious states during a
 simple visual task. *Proceedings of the National Academy of Sciences*,
 *99*(3), 1586-1591.
 
-Shanahan, M. (2010). Metastable chimera states in community-structured
+16. Shanahan, M. (2010). Metastable chimera states in community-structured
 oscillator networks. *Chaos: An Interdisciplinary Journal of Nonlinear
 Science*, *20*(1), 013108.
 
-Varela, F. J. (1996). Neurophenomenology: A methodological remedy for
+17. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for
 the hard problem. *Journal of Consciousness Studies*, *3*(4), 330-349.
 
-Varela, F., Lachaux, J. P., Rodriguez, E., & Martinerie, J. (2001). The
+18. Varela, F., Lachaux, J. P., Rodriguez, E., & Martinerie, J. (2001). The
 brainweb: Phase synchronization and large-scale integration. *Nature
 Reviews Neuroscience*, *2*(4), 229-239.
 
-Sporns, O. (2011). *Networks of the Brain*. MIT press.
+19. Sporns, O. (2011). *Networks of the Brain*. MIT press.
 
 </div>
