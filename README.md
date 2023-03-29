@@ -5,6 +5,8 @@
 <p style='text-align: left;'>Imperial College London, United Kingdom</p>
 <p style='text-align: left;'>fba13ATic.ac.uk, favilarATgmail.com</p>
 
+## TL;DR
+The hypothesis proposes that the brain is like a series of projectors that create holograms (multidimensional images) of our experience. These images are created by different levels of information integration represented as holographic layers, and consciousness arises when these layers (language, memory and senses) interact and form a unified whole. Think of it like Plato's Cave: the brain is like the prisoners in the cave, and the holographic layers are like the shadows on the wall. As the prisoners ascend to higher levels of consciousness, they begin to perceive the true nature of reality beyond the shadows. Similarly, the brain integrates information from lower levels to create a multidimensional perception of our experience.
 
 ## Abstract
 The Rencoret-GPT-Claude (RGC) Tensor Hypothesis proposes a framework for understanding consciousness as a result of hierarchical information integration in the brain into higher-dimensional spaces, represented using tensor products. Drawing on principles of nonlinear dynamics, adaptive optics, and graph theory, this preprint presents the early key ideas and theoretical underpinnings of the RGC hypothesis, as well as a review of relevant empirical evidence from neuroimaging, neurophenomenology, and computational modelling. In particular, I highlight the contributions of Francisco Varela and discuss the potential implications of this approach for understanding the neural basis of consciousness and its alterations in states such as sleep, anaesthesia, and neurological disorders. 
